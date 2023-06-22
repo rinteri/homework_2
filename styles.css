@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    background: rgba(121, 255, 109, 0.719);
+}
+.dabble-h {
+    text-align: center;
+}
+body {
+    font-weight: bold;
+    font-family: Courier;
+}
+.go {
+    font-size: 24pt;
+    border: 4px solid black; 
+    border-radius: 5px;
+    text-align: center;
+    font-style: italic;
+    text-shadow: rgba(121, 255, 109, 0.719) 1px 0 10px;
+}
+
+.paragraph-1 {
+    background: rgba(237, 170, 216, 0.719);
+    color:rgba(249, 248, 189, 0.779);
+    font-size: 32pt;
+}
+
+.paragraph-2 {
+    background: rgba(255, 182, 182, 0.719);
+    color:rgba(249, 248, 189, 0.779);
+    font-size: 32pt;
+}
+
+.paragraph-3 {
+    font-weight: bold;
+    font-family: Courier;
+}
